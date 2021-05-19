@@ -1,0 +1,27 @@
+body {
+    background: #b8eb99;
+}
+.background{
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    
+}
+.container {
+    width: 600px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, .7);
+}
+h3 {
+    font-size: 48px;
+}
+.photo {
+    width:100%
+}
+/* selectedarticle */
+p {
+    line-height: 2;
+    /* text-indent: 30px; */
+}
+img {
+    width:400px;
+}
